@@ -1,6 +1,6 @@
 # Brazilian Air Traffic Network Analysis
 
-An simple analysis of Brazilian air traffic network. It's a project of Network Analysis class.
+A simple analysis of Brazilian air traffic network. It's a project of Network Analysis class.
 
 ## Dataset
 
